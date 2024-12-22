@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Docker Debug",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 5005,
+            "projectName": "java-wsl-remote-debug-demo"
+        }
+    ]
+}
